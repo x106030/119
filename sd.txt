@@ -7,7 +7,7 @@
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8
 央视频道,#genre#
-CCTV1,tvg-logo="http://epg.51zmt.top:8000/tb/CCTV/HD/1HD.png",http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
+CCTV1,http://150.138.8.143/00/SNM/CHANNEL00000311/index.m3u8
 CCTV2,http://150.138.8.143/00/SNM/CHANNEL00000317/index.m3u8
 CCTV3,http://150.138.8.143/00/SNM/CHANNEL00000359/index.m3u8
 CCTV4,http://150.138.8.143/00/SNM/CHANNEL00000320/index.m3u8
