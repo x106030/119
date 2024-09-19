@@ -138,6 +138,3 @@ CCTV17,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 东平新闻,http://150.138.8.143/00/SNM/CHANNEL00001001/index.m3u8
 新泰综合,http://150.138.8.143/00/SNM/CHANNEL00001029/index.m3u8
 兰陵综合,http://150.138.8.143/00/SNM/CHANNEL00001032/index.m3u8
-鳳凰中文,https://tv.iill.top/phenix/fhzw
-鳳凰資訊,https://tv.iill.top/phenix/fhzx
-鳳凰香港,https://tv.iill.top/phenix/fhhk
