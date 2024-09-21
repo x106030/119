@@ -83,4 +83,8 @@ CCTV17,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 济南文旅体育,http://150.138.8.143/00/SNM/CHANNEL00000064/index.m3u8
 济南新闻综合,http://150.138.8.143/00/SNM/CHANNEL00000312/index.m3u8
 济南娱乐,http://150.138.8.143/00/SNM/CHANNEL00000065/index.m3u8
-
+资讯频道,#genre#
+中1,https://tv.iill.top/phenix/fhzw
+中2,https://shenxian.serv00.net/fhx.php?id=zw
+资1,https://tv.iill.top/phenix/fhzx
+资2,https://shenxian.serv00.net/fhx.php?id=zx
