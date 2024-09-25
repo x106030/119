@@ -129,7 +129,7 @@ CHC高清电影,http://60.216.247.173:55555/udp/239.253.242.154:8000
 测试影院高清,http://60.216.247.173:55555/udp/239.253.242.102:8000
 金鹰纪实高清,http://60.216.247.173:55555/udp/239.253.242.103:8000
 资讯频道,#genre#
-中*文1,https://tv.iill.top/phenix/fhzw
-中*文2,https://shenxian.serv00.net/fhx.php?id=zw
-资*讯1,https://tv.iill.top/phenix/fhzx
-资*讯2,https://shenxian.serv00.net/fhx.php?id=zx
+中|文|台1,https://tv.iill.top/phenix/fhzw
+中|文|台2,https://shenxian.serv00.net/fhx.php?id=zw
+资|讯|台1,https://tv.iill.top/phenix/fhzx
+资|讯|台2,https://shenxian.serv00.net/fhx.php?id=zx
