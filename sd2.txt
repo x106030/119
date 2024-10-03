@@ -86,5 +86,6 @@ CCTV17,http://150.138.8.143/00/SNM/CHANNEL00000303/index.m3u8
 资讯频道,#genre#
 中|文|台1,https://tv.iill.top/phenix/fhzw
 中|文|台2,https://shenxian.serv00.net/fhx.php?id=zw
+中|文|台3,http://ayolee.com:5253/udp/239.93.0.162:2192
 资|讯|台1,https://tv.iill.top/phenix/fhzx
 资|讯|台2,https://shenxian.serv00.net/fhx.php?id=zx
